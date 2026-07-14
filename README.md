@@ -45,26 +45,6 @@ The project uses four Excel datasets:
 
 ---
 
-##  Dashboard Preview
-
-### Main Dashboard
-
-![Dashboard](Screenshots/Dashboard.png)
-
-### Forecast
-
-![Forecast](Screenshots/Forecast.png)
-
-### Air Quality
-
-![Air Quality](Screenshots/AirQuality.png)
-
-### Weather Cards
-
-![Weather Cards](Screenshots/WeatherCards.png)
-
----
-
 ##  Project Structure
 
 ```
